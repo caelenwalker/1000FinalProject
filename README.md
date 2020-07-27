@@ -3,7 +3,7 @@
 ## Sophomore Information Technology student at the University of Missouri.
 
 ### Experience and Education
-Information on my professional experience and education can be read [here](experience.mc)
+Information on my professional experience and education can be read [here](experience.md).
 
 ### My code
 I have taken a couple different programming classes at Mizzou so far. Some projects I've completed for these courses can be viewed [here](code1.md) and [here](code2.md).
