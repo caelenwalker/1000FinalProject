@@ -3,7 +3,6 @@
 
 # Activites
 
-## Activities 
 - **ShipIt Day Hackathon**
    - _Developed a web application that allows interns to network with other interns/associates in a virtual environment_
    - _Worked with a fellow teammate to build the front end using React JS and Terra components_
