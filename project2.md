@@ -3,7 +3,7 @@
 
 # IT 2040 Document Merger
 
-## This project merges two documents into one. You can see how my _test_ and _test1_ documents merge together.
+## This project merges two documents into one. You can see how my test and test1 documents merge together.
 
 Program.cs:
 
