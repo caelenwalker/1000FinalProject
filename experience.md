@@ -4,7 +4,8 @@
 
 ### University of Missouri
 ### Bachelor of Science in Information Technology	
-### _Graduation: December 2022_
+### Graduation: December 2022
+
 
 ## Professional Experience 
 
