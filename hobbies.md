@@ -6,11 +6,11 @@
 - **ShipIt Day Hackathon**
    - _Developed a web application that allows interns to network with other interns/associates in a virtual environment_
    - _Worked with a fellow teammate to build the front end using React JS and Terra components_
+  ![shipit](https://pbs.twimg.com/media/DaVXr_cW0AAY4Vq?format=png&name=360x360)
+   
 - **Alpha Omega Epsilon Engineering Sorority**
    - _Professional and social sorority composed of female engineering and technical science students_
 - **Mizzou Engineering Student Council**
    - _Student led organization for the Mizzou College of Engineering_
 - **University Philharmonic Orchestra**
    - _Violist_
-![orch](https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/75478497_10156647896257541_728259714181234688_o.jpg?_nc_cat=107&_nc_sid=730e14&_nc_ohc=1gxzi2yqNAIAX9PGkiO&_nc_ht=scontent-ort2-1.xx&oh=38679e403492969d9ae186f0669d6694&oe=5F46B022)
-
