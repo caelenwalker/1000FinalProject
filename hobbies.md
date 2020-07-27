@@ -13,7 +13,7 @@
   
 - **Alpha Omega Epsilon Engineering Sorority**
    - _Professional and social sorority composed of female engineering and technical science students_
-  ![aoe](https://supportlpch.org/sites/default/files/aoe_main.jpg)
+  ![aoe](https://cdn.shopify.com/s/files/1/2162/8777/products/AlphaOmegaEpsilon_230CBR__WhiteLetters.JPG?v=1539122248)
 
 - **University Philharmonic Orchestra**
    - _Violist_
