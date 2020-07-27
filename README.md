@@ -2,7 +2,7 @@
 
 ## Sophomore Information Technology student at the University of Missouri.
 
-### Experience and Education
+### Education and Experience
 Information on my professional experience and education can be found [here](experience.md).
 
 ### Programming Projects
