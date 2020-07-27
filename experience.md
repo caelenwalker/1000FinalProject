@@ -3,7 +3,7 @@
 # Education and Experience
 
 ## Education
-
+![CoE](coe.jpg)
 ### University of Missouri
 ### Bachelor of Science in Information Technology	
 #### Graduation: December 2022
