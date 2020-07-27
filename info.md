@@ -1,4 +1,4 @@
-# Contact information
+# Contact info
 
 - **Email:** cm3walker@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/caelen-walker-a2a4211b0/
