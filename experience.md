@@ -4,13 +4,13 @@
 
 ### University of Missouri
 ### Bachelor of Science in Information Technology	
-### Graduation: December 2022
+#### Graduation: December 2022
 
 
 ## Professional Experience 
 
 ### **Cerner Corporation**
-### _Software Engineering Intern_ 
+#### Software Engineer Intern
 ####  _May 2020 - July 2020_
 - Built an API to migrate personnel workflows into client facing frontend applications
 - Completed Ruby on Rails and React JS projects fixing defects within various front end applications, while also writing corresponding unit tests
@@ -18,7 +18,7 @@
 - Participated in the agile development process and daily stand-up scrums
 
 ### **Cerner Corporation**
-### _Cerner Scholar_
+#### Cerner Scholar
 #### _Jan 2019 - May 2019_
 - Completed Ruby on Rails and JavaScript projects that implemented helper files, CSS files, translation files, and classes
 - Utilized JavaScript and jQuery event handlers to update date pickers and modals
