@@ -12,3 +12,5 @@
    - _Student led organization for the Mizzou College of Engineering_
 - **University Philharmonic Orchestra**
    - _Violist_
+![orch](https://ibb.co/Sm21P5w)
+
