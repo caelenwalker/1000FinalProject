@@ -1,6 +1,6 @@
 # Caelen Walker
 
-# Sophomore Information Technology student at the University of Missouri
+## Sophomore Information Technology student at the University of Missouri.
 
 ### Experience and Education
 Information on my professional experience and education can be read [here](experience.mc)
