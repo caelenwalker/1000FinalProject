@@ -1,6 +1,6 @@
 # IT 2040 Final Project
 
-## This is my final project for IT 2040 Programming Languages and Paradigms. The purpose of this project is to sort through various playlist data, and create a report. The report generated is report.txt
+### This is my final project for IT 2040 Programming Languages and Paradigms. The purpose of this project is to sort through various playlist data, and create a report. The report generated is report.txt
 
 Program.cs:
 
