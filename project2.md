@@ -1,6 +1,6 @@
-# Document Merger
+# IT 2040 Document Merger
 
-## This project was for IT 2040 - it merges two documents into one. You can see how my test and test1 documents become merged.
+## This project merges two documents into one. You can see how my test and test1 documents become merged.
 
 Program.cs:
 
