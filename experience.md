@@ -1,5 +1,5 @@
 # Education and Experience
-[Home](https://github.com/caelenwalker/1000FinalProject) | [Code](https://github.com/caelenwalker/1000FinalProject/blob/master/project.md) | [Hobbies](https://github.com/caelenwalker/1000FinalProject/blob/master/hobbies.md) | [Contact](https://github.com/caelenwalker/1000FinalProject/blob/master/info.md)
+[Home](https://github.com/caelenwalker/1000FinalProject) | [Code](https://github.com/caelenwalker/1000FinalProject/blob/master/project.md) | [Activities and Hobbies](https://github.com/caelenwalker/1000FinalProject/blob/master/hobbies.md) | [Contact info](https://github.com/caelenwalker/1000FinalProject/blob/master/info.md)
 
 ## Education
 
