@@ -1,7 +1,7 @@
 [Home](https://github.com/caelenwalker/1000FinalProject) | [Education and Experience](https://github.com/caelenwalker/1000FinalProject/blob/master/experience.md)
 | [Projects](https://github.com/caelenwalker/1000FinalProject/blob/master/project.md) | [Contact info](https://github.com/caelenwalker/1000FinalProject/blob/master/info.md)
 
-# Activites and Hobbies
+# Activites
 
 ## Activities 
 - **ShipIt Day Hackathon**
