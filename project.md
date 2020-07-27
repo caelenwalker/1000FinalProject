@@ -1,4 +1,6 @@
 # IT 2040 Final Project
+[Home](https://github.com/caelenwalker/1000FinalProject) | [Education and Experience](https://github.com/caelenwalker/1000FinalProject/blob/master/experience.md)
+[More Code](https://github.com/caelenwalker/1000FinalProject/blob/master/project2.md) | [Activities and Hobbies](https://github.com/caelenwalker/1000FinalProject/blob/master/hobbies.md) | [Contact Info](https://github.com/caelenwalker/1000FinalProject/blob/master/info.md)
 
 ### This is my final project for IT 2040. The purpose of this project is to sort through various playlist data, and create a report. You can view the report that is generated under report.txt
 
