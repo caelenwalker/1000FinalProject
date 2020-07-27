@@ -1,4 +1,4 @@
-#Document Merger
+# Document Merger
 
 ## This project was for IT 2040 - it merges two documents into one. You can see how my test and test1 documents become merged.
 
