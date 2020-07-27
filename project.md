@@ -1,5 +1,5 @@
 [Home](https://github.com/caelenwalker/1000FinalProject) | [Education and Experience](https://github.com/caelenwalker/1000FinalProject/blob/master/experience.md)
-| [More Code](https://github.com/caelenwalker/1000FinalProject/blob/master/project2.md) | [Activities and Hobbies](https://github.com/caelenwalker/1000FinalProject/blob/master/hobbies.md) | [Contact Info](https://github.com/caelenwalker/1000FinalProject/blob/master/info.md)
+| [More Code](https://github.com/caelenwalker/1000FinalProject/blob/master/project2.md) | [Activities and Hobbies](https://github.com/caelenwalker/1000FinalProject/blob/master/hobbies.md) | [Contact info](https://github.com/caelenwalker/1000FinalProject/blob/master/info.md)
 
 # IT 2040 Final Project
 
