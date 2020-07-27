@@ -1,3 +1,6 @@
+[Home](https://github.com/caelenwalker/1000FinalProject) | [Education and Experience](https://github.com/caelenwalker/1000FinalProject/blob/master/experience.md)
+| [Code](https://github.com/caelenwalker/1000FinalProject/blob/master/project.md) | [Contact info](https://github.com/caelenwalker/1000FinalProject/blob/master/info.md)
+
 # Activites and Hobbies
 
 ## Activities 
