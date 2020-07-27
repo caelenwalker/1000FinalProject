@@ -1,5 +1,5 @@
 [Home](https://github.com/caelenwalker/1000FinalProject) | [Education and Experience](https://github.com/caelenwalker/1000FinalProject/blob/master/experience.md)
-| [Code](https://github.com/caelenwalker/1000FinalProject/blob/master/project.md) | [Activities and Hobbies](https://github.com/caelenwalker/1000FinalProject/blob/master/hobbies.md) | [Contact info](https://github.com/caelenwalker/1000FinalProject/blob/master/info.md)
+| [Projects](https://github.com/caelenwalker/1000FinalProject/blob/master/project.md) | [Activities and Hobbies](https://github.com/caelenwalker/1000FinalProject/blob/master/hobbies.md) | [Contact info](https://github.com/caelenwalker/1000FinalProject/blob/master/info.md)
 
 # IT 2040 Document Merger
 
