@@ -6,7 +6,7 @@
 Information on my professional experience and education can be found [here](experience.md).
 
 ### Programming Projects
-I have taken a couple different programming courses at Mizzou so far. Some projects I've completed can be viewed [here](project.md) and [here](project2.md).
+I have taken a couple different programming courses at Mizzou so far. Some of the projects I've completed can be viewed [here](project.md) and [here](project2.md).
 
 ### Activities
 Information about my involvement and hobbies can be found [here](hobbies.md).
