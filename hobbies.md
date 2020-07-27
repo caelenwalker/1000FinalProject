@@ -2,7 +2,8 @@
 
 ## Activities 
 - **ShipIt Day Hackathon**
-   - _Developed a React JS web application that allows interns to connect/network with other interns in a virtual environment_
+   - _Developed a web application that allows interns to network with other interns/associates in a virtual environment_
+   - _Worked with a fellow teammate to build the front end using React JS and Terra components_
 - **Alpha Omega Epsilon Engineering Sorority**
 - **Mizzou Engineering Student Council**
 - **University Philharmonic Orchestra**
