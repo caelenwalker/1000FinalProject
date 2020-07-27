@@ -5,7 +5,7 @@
 ## University of Missouri - Columbia, Missouri
 ### Bachelor of Science in Information Technology	
 ### Graduation: December 2022
----
+
 ## Professional Experience 
 
 ## Cerner Corporation
